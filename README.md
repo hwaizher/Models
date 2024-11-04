@@ -1,9 +1,9 @@
 # Models
-Repository containing financial modesl I built, spreadsheets on all kinds of datas, and other fun stuff.
+Repository containing financial models I built, spreadsheets of all kinds, and other fun stuff.
 
-My Models - contains models that I built
-Other Models - Other People's Models that were useful
-Resources - Templates, Links, and Websites on building models
+**My Models** - contains models that I built <br>
+**Other Models** - Other People's Models that were useful<br>
+**Resources** - Templates, Links, and Websites on building models<br>
 
 **Key takeaways on modelling**<br>
 <br>
