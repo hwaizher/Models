@@ -6,6 +6,7 @@ Other Models - Other People's Models that were useful
 Resources - Templates, Links, and Websites on building models
 
 **Key takeaways on modelling**<br>
+<br>
 (1) Building a model helps you understand the data <br>
 (2) Understanding inputs, sensitivities and scenarios are more important than the model outputs<br>
 (3) Structuring, formatting and clarity are key aspects of a model, especially when collaborating with others<br>
